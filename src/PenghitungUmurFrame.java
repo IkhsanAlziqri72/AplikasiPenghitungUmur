@@ -205,7 +205,7 @@ public class PenghitungUmurFrame extends javax.swing.JFrame {
         txtAreaPeristiwa.setText("");
 
     }//GEN-LAST:event_dateChooserTanggalLahirPropertyChange
-
+    
     /**
      * @param args the command line arguments
      */
